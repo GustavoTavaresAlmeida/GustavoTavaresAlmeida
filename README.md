@@ -1,13 +1,13 @@
-## Oi! Eu sou a Gustavo Tavares Lobo 👋
+## Oi! Eu sou a Gustavo Tavares  👋
 
 <br>
-
-Sou um desenvolvedor .NET apaixonado por criar soluções inovadoras. Minhas habilidades abrangem o desenvolvimento com C#, ASP.NET, .NET Core. Além disso, estou familiarizada com Git/GitHub para controle de versão. No lado front-end, domino HTML, CSS e JavaScript.
+Tenho 15 anos, sou cuiabano mas moro em Santa Catarina. Apaixonado por animes e basquete.
+Estudando programação. Minhas habilidades abrangem o desenvolvimento com C#, ASP.NET, .NET Core. Além disso, estou familiarizado com Git/GitHub para controle de versão. No lado front-end: HTML, CSS e JavaScript.
 
 
  
 > <br>
-> Estou no 1º ano do Enseino Médio.
+> Estudante do 1º ano do Ensino Médio.
 
 
 
