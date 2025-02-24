@@ -1,4 +1,4 @@
-## Oi! Eu sou a Gustavo Tavares  👋
+## Oi! Eu sou o Gustavo Tavares  👋
 
 <br>
 Tenho 15 anos, sou cuiabano mas moro em Santa Catarina. Apaixonado por animes e basquete.
