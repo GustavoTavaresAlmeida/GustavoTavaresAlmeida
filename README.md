@@ -45,7 +45,7 @@ Estudando programação. Minhas habilidades abrangem o desenvolvimento com C#, A
 <div align="center">
   <a href="https://github.com/GustavoTavaresAlmeida">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GustavoTavaresAlmeida&show_icons=true&theme=vision-friendly-dark&inclue_all_commit=true" />
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoTavaresAlmeida&layout-default&langs_count=3&theme=vision-friendly-dark" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoTavaresAlmeida&layout-default&langs_count=5&theme=vision-friendly-dark" />
   </a>
 </div>
 <br>
